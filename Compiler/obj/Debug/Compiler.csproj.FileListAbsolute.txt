@@ -1,0 +1,309 @@
+c:\users\void\documents\visual studio 2013\Projects\Compiler\Compiler\bin\Debug\Compiler.exe.config
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler\Compiler\bin\Debug\Compiler.exe
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler\Compiler\bin\Debug\Compiler.pdb
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler\Compiler\obj\Debug\Compiler.Compiler.resources
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler\Compiler\obj\Debug\Compiler.Properties.Resources.resources
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler\Compiler\obj\Debug\Compiler.csproj.GenerateResource.Cache
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler\Compiler\obj\Debug\Compiler.exe
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler\Compiler\obj\Debug\Compiler.pdb
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler\Compiler\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler\Compiler\obj\Debug\Compiler.Form1.resources
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler - 副本-12-9\Compiler\bin\Debug\Compiler.exe.config
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler - 副本-12-9\Compiler\obj\Debug\Compiler.exe
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler - 副本-12-9\Compiler\obj\Debug\Compiler.pdb
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler - 副本-12-9\Compiler\bin\Debug\Compiler.exe
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler - 副本-12-9\Compiler\bin\Debug\Compiler.pdb
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler - 副本-12-9\Compiler\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler - 副本-12-9\Compiler\obj\Debug\Compiler.Form1.resources
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler - 副本-12-9\Compiler\obj\Debug\Compiler.Compiler.resources
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler - 副本-12-9\Compiler\obj\Debug\Compiler.Properties.Resources.resources
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler - 副本-12-9\Compiler\obj\Debug\Compiler.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\新建文件夹\Compiler - 副本-12-11\Compiler\bin\Debug\Compiler.exe.config
+C:\Users\Administrator\Desktop\新建文件夹\Compiler - 副本-12-11\Compiler\obj\Debug\Compiler.exe
+C:\Users\Administrator\Desktop\新建文件夹\Compiler - 副本-12-11\Compiler\obj\Debug\Compiler.pdb
+C:\Users\Administrator\Desktop\新建文件夹\Compiler - 副本-12-11\Compiler\bin\Debug\Compiler.exe
+C:\Users\Administrator\Desktop\新建文件夹\Compiler - 副本-12-11\Compiler\bin\Debug\Compiler.pdb
+C:\Users\Administrator\Desktop\新建文件夹\Compiler - 副本-12-11\Compiler\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\新建文件夹\Compiler - 副本-12-11\Compiler\obj\Debug\Compiler.Form1.resources
+C:\Users\Administrator\Desktop\新建文件夹\Compiler - 副本-12-11\Compiler\obj\Debug\Compiler.Compiler.resources
+C:\Users\Administrator\Desktop\新建文件夹\Compiler - 副本-12-11\Compiler\obj\Debug\Compiler.Properties.Resources.resources
+C:\Users\Administrator\Desktop\新建文件夹\Compiler - 副本-12-11\Compiler\obj\Debug\Compiler.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\新建文件夹\Compiler - 副本-12-11\Compiler\obj\Debug\Compiler.Form2.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.12 15.48\Compiler\bin\Debug\Compiler.exe.config
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.12 15.48\Compiler\obj\Debug\Compiler.exe
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.12 15.48\Compiler\obj\Debug\Compiler.pdb
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.12 15.48\Compiler\bin\Debug\Compiler.exe
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.12 15.48\Compiler\bin\Debug\Compiler.pdb
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.12 15.48\Compiler\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.12 15.48\Compiler\obj\Debug\Compiler.Form1.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.12 15.48\Compiler\obj\Debug\Compiler.Form2.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.12 15.48\Compiler\obj\Debug\Compiler.Compiler.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.12 15.48\Compiler\obj\Debug\Compiler.Properties.Resources.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.12 15.48\Compiler\obj\Debug\Compiler.csproj.GenerateResource.Cache
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.16 16.05\Compiler\bin\Debug\Compiler.exe.config
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.16 16.05\Compiler\obj\Debug\Compiler.exe
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.16 16.05\Compiler\obj\Debug\Compiler.pdb
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.16 16.05\Compiler\bin\Debug\Compiler.exe
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.16 16.05\Compiler\bin\Debug\Compiler.pdb
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.16 16.05\Compiler\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.16 16.05\Compiler\obj\Debug\Compiler.Form1.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.16 16.05\Compiler\obj\Debug\Compiler.Form2.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.16 16.05\Compiler\obj\Debug\Compiler.Compiler.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.16 16.05\Compiler\obj\Debug\Compiler.Properties.Resources.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.16 16.05\Compiler\obj\Debug\Compiler.csproj.GenerateResource.Cache
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.16 17.41\Compiler\bin\Debug\Compiler.exe.config
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.16 17.41\Compiler\obj\Debug\Compiler.exe
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.16 17.41\Compiler\obj\Debug\Compiler.pdb
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.16 17.41\Compiler\bin\Debug\Compiler.exe
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.16 17.41\Compiler\bin\Debug\Compiler.pdb
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.16 17.41\Compiler\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.16 17.41\Compiler\obj\Debug\Compiler.Form1.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.16 17.41\Compiler\obj\Debug\Compiler.Form2.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.16 17.41\Compiler\obj\Debug\Compiler.Compiler.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.16 17.41\Compiler\obj\Debug\Compiler.Properties.Resources.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.16 17.41\Compiler\obj\Debug\Compiler.csproj.GenerateResource.Cache
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.16 18.53\Compiler\bin\Debug\Compiler.exe.config
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.16 18.53\Compiler\obj\Debug\Compiler.exe
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.16 18.53\Compiler\obj\Debug\Compiler.pdb
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.16 18.53\Compiler\bin\Debug\Compiler.exe
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.16 18.53\Compiler\bin\Debug\Compiler.pdb
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.16 18.53\Compiler\obj\Debug\Compiler.Form1.resources
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.16 18.53\Compiler\obj\Debug\Compiler.Form2.resources
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.16 18.53\Compiler\obj\Debug\Compiler.Compiler.resources
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.16 18.53\Compiler\obj\Debug\Compiler.Properties.Resources.resources
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.16 18.53\Compiler\obj\Debug\Compiler.csproj.GenerateResource.Cache
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.16 18.53\Compiler\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.17 19.11\Compiler\bin\Debug\Compiler.exe.config
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.17 19.11\Compiler\obj\Debug\Compiler.exe
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.17 19.11\Compiler\obj\Debug\Compiler.pdb
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.17 19.11\Compiler\bin\Debug\Compiler.exe
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.17 19.11\Compiler\bin\Debug\Compiler.pdb
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.17 19.11\Compiler\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.17 19.11\Compiler\obj\Debug\Compiler.Form1.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.17 19.11\Compiler\obj\Debug\Compiler.Form2.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.17 19.11\Compiler\obj\Debug\Compiler.Compiler.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.17 19.11\Compiler\obj\Debug\Compiler.Properties.Resources.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.17 19.11\Compiler\obj\Debug\Compiler.csproj.GenerateResource.Cache
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.17 19.35\Compiler\bin\Debug\Compiler.exe.config
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.17 19.35\Compiler\obj\Debug\Compiler.exe
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.17 19.35\Compiler\obj\Debug\Compiler.pdb
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.17 19.35\Compiler\bin\Debug\Compiler.exe
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.17 19.35\Compiler\bin\Debug\Compiler.pdb
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.17 19.35\Compiler\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.17 19.35\Compiler\obj\Debug\Compiler.Form1.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.17 19.35\Compiler\obj\Debug\Compiler.Form2.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.17 19.35\Compiler\obj\Debug\Compiler.Compiler.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.17 19.35\Compiler\obj\Debug\Compiler.Properties.Resources.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.17 19.35\Compiler\obj\Debug\Compiler.csproj.GenerateResource.Cache
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.17 20.15\Compiler\bin\Debug\Compiler.exe.config
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.17 20.15\Compiler\obj\Debug\Compiler.exe
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.17 20.15\Compiler\obj\Debug\Compiler.pdb
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.17 20.15\Compiler\bin\Debug\Compiler.exe
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.17 20.15\Compiler\bin\Debug\Compiler.pdb
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.17 20.15\Compiler\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.17 20.15\Compiler\obj\Debug\Compiler.Form1.resources
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.17 20.15\Compiler\obj\Debug\Compiler.Form2.resources
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.17 20.15\Compiler\obj\Debug\Compiler.Compiler.resources
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.17 20.15\Compiler\obj\Debug\Compiler.Properties.Resources.resources
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.17 20.15\Compiler\obj\Debug\Compiler.csproj.GenerateResource.Cache
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.17 20.15\Compiler\bin\Debug\Compiler.exe.config
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.17 20.15\Compiler\obj\Debug\Compiler.exe
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.17 20.15\Compiler\obj\Debug\Compiler.pdb
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.17 20.15\Compiler\bin\Debug\Compiler.exe
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.17 20.15\Compiler\bin\Debug\Compiler.pdb
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.17 20.15\Compiler\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.17 20.15\Compiler\obj\Debug\Compiler.Form1.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.17 20.15\Compiler\obj\Debug\Compiler.Form2.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.17 20.15\Compiler\obj\Debug\Compiler.Compiler.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.17 20.15\Compiler\obj\Debug\Compiler.Properties.Resources.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.17 20.15\Compiler\obj\Debug\Compiler.csproj.GenerateResource.Cache
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.17 21.58\Compiler\bin\Debug\Compiler.exe.config
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.17 21.58\Compiler\obj\Debug\Compiler.exe
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.17 21.58\Compiler\obj\Debug\Compiler.pdb
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.17 21.58\Compiler\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.17 21.58\Compiler\obj\Debug\Compiler.Form1.resources
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.17 21.58\Compiler\obj\Debug\Compiler.Form2.resources
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.17 21.58\Compiler\obj\Debug\Compiler.Compiler.resources
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.17 21.58\Compiler\obj\Debug\Compiler.Properties.Resources.resources
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.17 21.58\Compiler\obj\Debug\Compiler.csproj.GenerateResource.Cache
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.17 21.58\Compiler\bin\Debug\Compiler.exe
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.17 21.58\Compiler\bin\Debug\Compiler.pdb
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.17 22.06\Compiler\bin\Debug\Compiler.exe.config
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.17 22.06\Compiler\obj\Debug\Compiler.exe
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.17 22.06\Compiler\obj\Debug\Compiler.pdb
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.17 22.06\Compiler\bin\Debug\Compiler.exe
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.17 22.06\Compiler\bin\Debug\Compiler.pdb
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.17 22.06\Compiler\obj\Debug\Compiler.Form1.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.17 22.06\Compiler\obj\Debug\Compiler.Form2.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.17 22.06\Compiler\obj\Debug\Compiler.Compiler.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.17 22.06\Compiler\obj\Debug\Compiler.Properties.Resources.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.17 22.06\Compiler\obj\Debug\Compiler.csproj.GenerateResource.Cache
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.17 22.06\Compiler\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.18 1.19\Compiler\bin\Debug\Compiler.exe.config
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.18 1.19\Compiler\obj\Debug\Compiler.exe
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.18 1.19\Compiler\obj\Debug\Compiler.pdb
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.18 9.40\Compiler\bin\Debug\Compiler.exe.config
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.18 9.40\Compiler\obj\Debug\Compiler.exe
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.18 9.40\Compiler\obj\Debug\Compiler.pdb
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.18 9.40\Compiler\bin\Debug\Compiler.exe
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.18 9.40\Compiler\bin\Debug\Compiler.pdb
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.18 9.40\Compiler\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.18 9.40\Compiler\obj\Debug\Compiler.Form1.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.18 9.40\Compiler\obj\Debug\Compiler.Form2.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.18 9.40\Compiler\obj\Debug\Compiler.Compiler.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.18 9.40\Compiler\obj\Debug\Compiler.Properties.Resources.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.18 9.40\Compiler\obj\Debug\Compiler.csproj.GenerateResource.Cache
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.18 12.09\Compiler\bin\Debug\Compiler.exe.config
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.18 12.09\Compiler\obj\Debug\Compiler.exe
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.18 12.09\Compiler\obj\Debug\Compiler.pdb
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.18 12.09\Compiler\bin\Debug\Compiler.exe
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.18 12.09\Compiler\bin\Debug\Compiler.pdb
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.18 12.09\Compiler\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.18 12.09\Compiler\obj\Debug\Compiler.Form1.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.18 12.09\Compiler\obj\Debug\Compiler.Form2.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.18 12.09\Compiler\obj\Debug\Compiler.Compiler.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.18 12.09\Compiler\obj\Debug\Compiler.Properties.Resources.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.18 12.09\Compiler\obj\Debug\Compiler.csproj.GenerateResource.Cache
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.19 15.23\Compiler\bin\Debug\Compiler.exe.config
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.19 15.23\Compiler\obj\Debug\Compiler.exe
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.19 15.23\Compiler\obj\Debug\Compiler.pdb
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.19 15.23\Compiler\bin\Debug\Compiler.exe
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.19 15.23\Compiler\bin\Debug\Compiler.pdb
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.19 15.23\Compiler\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.19 15.23\Compiler\obj\Debug\Compiler.Form1.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.19 15.23\Compiler\obj\Debug\Compiler.Form2.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.19 15.23\Compiler\obj\Debug\Compiler.Compiler.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.19 15.23\Compiler\obj\Debug\Compiler.Properties.Resources.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.19 15.23\Compiler\obj\Debug\Compiler.csproj.GenerateResource.Cache
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.19 17.44\Compiler\bin\Debug\Compiler.exe.config
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.19 17.44\Compiler\obj\Debug\Compiler.exe
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.19 17.44\Compiler\obj\Debug\Compiler.pdb
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.19 17.44\Compiler\bin\Debug\Compiler.exe
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.19 17.44\Compiler\bin\Debug\Compiler.pdb
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.19 17.44\Compiler\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.19 17.44\Compiler\obj\Debug\Compiler.Form1.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.19 17.44\Compiler\obj\Debug\Compiler.Form2.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.19 17.44\Compiler\obj\Debug\Compiler.Compiler.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.19 17.44\Compiler\obj\Debug\Compiler.Properties.Resources.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.19 17.44\Compiler\obj\Debug\Compiler.csproj.GenerateResource.Cache
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.19 22.45\Compiler\bin\Debug\Compiler.exe.config
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.19 22.45\Compiler\obj\Debug\Compiler.exe
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.19 22.45\Compiler\obj\Debug\Compiler.pdb
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.19 22.45\Compiler\bin\Debug\Compiler.exe
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.19 22.45\Compiler\bin\Debug\Compiler.pdb
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.19 22.45\Compiler\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.19 22.45\Compiler\obj\Debug\Compiler.Form1.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.19 22.45\Compiler\obj\Debug\Compiler.Form2.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.19 22.45\Compiler\obj\Debug\Compiler.Compiler.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.19 22.45\Compiler\obj\Debug\Compiler.Properties.Resources.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.19 22.45\Compiler\obj\Debug\Compiler.csproj.GenerateResource.Cache
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.20 14.58\Compiler\bin\Debug\Compiler.exe.config
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.20 14.58\Compiler\obj\Debug\Compiler.exe
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.20 14.58\Compiler\obj\Debug\Compiler.pdb
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.20 14.58\Compiler\bin\Debug\Compiler.exe
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.20 14.58\Compiler\bin\Debug\Compiler.pdb
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.20 14.58\Compiler\obj\Debug\Compiler.Form1.resources
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.20 14.58\Compiler\obj\Debug\Compiler.Form2.resources
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.20 14.58\Compiler\obj\Debug\Compiler.Compiler.resources
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.20 14.58\Compiler\obj\Debug\Compiler.Properties.Resources.resources
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.20 14.58\Compiler\obj\Debug\Compiler.csproj.GenerateResource.Cache
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.20 14.58\Compiler\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.20 19.00\Compiler\bin\Debug\Compiler.exe.config
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.20 19.00\Compiler\obj\Debug\Compiler.exe
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.20 19.00\Compiler\obj\Debug\Compiler.pdb
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.20 19.00\Compiler\bin\Debug\Compiler.exe
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.20 19.00\Compiler\bin\Debug\Compiler.pdb
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.20 19.00\Compiler\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.20 19.00\Compiler\obj\Debug\Compiler.Form1.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.20 19.00\Compiler\obj\Debug\Compiler.Form2.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.20 19.00\Compiler\obj\Debug\Compiler.Compiler.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.20 19.00\Compiler\obj\Debug\Compiler.Properties.Resources.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.20 19.00\Compiler\obj\Debug\Compiler.csproj.GenerateResource.Cache
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.20 19.19\Compiler\bin\Debug\Compiler.exe.config
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.20 19.19\Compiler\obj\Debug\Compiler.exe
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.20 19.19\Compiler\obj\Debug\Compiler.pdb
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.20 19.19\Compiler\bin\Debug\Compiler.exe
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.20 19.19\Compiler\bin\Debug\Compiler.pdb
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.20 19.19\Compiler\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.20 19.19\Compiler\obj\Debug\Compiler.Form1.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.20 19.19\Compiler\obj\Debug\Compiler.Form2.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.20 19.19\Compiler\obj\Debug\Compiler.Compiler.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.20 19.19\Compiler\obj\Debug\Compiler.Properties.Resources.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.20 19.19\Compiler\obj\Debug\Compiler.csproj.GenerateResource.Cache
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.20 22.32\Compiler\bin\Debug\Compiler.exe.config
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.20 22.32\Compiler\obj\Debug\Compiler.exe
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.20 22.32\Compiler\obj\Debug\Compiler.pdb
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.20 22.32\Compiler\bin\Debug\Compiler.exe
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.20 22.32\Compiler\bin\Debug\Compiler.pdb
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.20 22.32\Compiler\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.20 22.32\Compiler\obj\Debug\Compiler.Form1.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.20 22.32\Compiler\obj\Debug\Compiler.Form2.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.20 22.32\Compiler\obj\Debug\Compiler.Compiler.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.20 22.32\Compiler\obj\Debug\Compiler.Properties.Resources.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.20 22.32\Compiler\obj\Debug\Compiler.csproj.GenerateResource.Cache
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.20 23.09\Compiler\bin\Debug\Compiler.exe.config
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.20 23.09\Compiler\obj\Debug\Compiler.exe
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.20 23.09\Compiler\obj\Debug\Compiler.pdb
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.20 23.09\Compiler\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.20 23.09\Compiler\obj\Debug\Compiler.Form1.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.20 23.09\Compiler\obj\Debug\Compiler.Form2.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.20 23.09\Compiler\obj\Debug\Compiler.Compiler.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.20 23.09\Compiler\obj\Debug\Compiler.Properties.Resources.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.20 23.09\Compiler\obj\Debug\Compiler.csproj.GenerateResource.Cache
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.20 23.09\Compiler\bin\Debug\Compiler.exe
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.20 23.09\Compiler\bin\Debug\Compiler.pdb
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.21 0.25\Compiler\bin\Debug\Compiler.exe.config
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.21 0.25\Compiler\bin\Debug\Compiler.exe
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.21 0.25\Compiler\bin\Debug\Compiler.pdb
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.21 0.25\Compiler\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.21 0.25\Compiler\obj\Debug\Compiler.Form1.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.21 0.25\Compiler\obj\Debug\Compiler.Form2.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.21 0.25\Compiler\obj\Debug\Compiler.Compiler.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.21 0.25\Compiler\obj\Debug\Compiler.Properties.Resources.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.21 0.25\Compiler\obj\Debug\Compiler.csproj.GenerateResource.Cache
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.21 0.25\Compiler\obj\Debug\Compiler.exe
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.21 0.25\Compiler\obj\Debug\Compiler.pdb
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.21 11.40\Compiler\bin\Debug\Compiler.exe.config
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.21 11.40\Compiler\obj\Debug\Compiler.exe
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.21 11.40\Compiler\obj\Debug\Compiler.pdb
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.21 11.40\Compiler\bin\Debug\Compiler.exe
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.21 11.40\Compiler\bin\Debug\Compiler.pdb
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.21 11.40\Compiler\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.21 11.40\Compiler\obj\Debug\Compiler.Form1.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.21 11.40\Compiler\obj\Debug\Compiler.Form2.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.21 11.40\Compiler\obj\Debug\Compiler.Compiler.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.21 11.40\Compiler\obj\Debug\Compiler.Properties.Resources.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.21 11.40\Compiler\obj\Debug\Compiler.csproj.GenerateResource.Cache
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.21 13.28\Compiler\bin\Debug\Compiler.exe.config
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.21 13.28\Compiler\obj\Debug\Compiler.exe
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.21 13.28\Compiler\obj\Debug\Compiler.pdb
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.21 13.28\Compiler\bin\Debug\Compiler.exe
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.21 13.28\Compiler\bin\Debug\Compiler.pdb
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.21 13.28\Compiler\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.21 13.28\Compiler\obj\Debug\Compiler.Form1.resources
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.21 13.28\Compiler\obj\Debug\Compiler.Form2.resources
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.21 13.28\Compiler\obj\Debug\Compiler.Compiler.resources
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.21 13.28\Compiler\obj\Debug\Compiler.Properties.Resources.resources
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.21 13.28\Compiler\obj\Debug\Compiler.csproj.GenerateResource.Cache
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.21 13.28\Compiler\bin\Debug\Compiler.exe.config
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.21 13.28\Compiler\obj\Debug\Compiler.exe
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.21 13.28\Compiler\obj\Debug\Compiler.pdb
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.21 13.28\Compiler\bin\Debug\Compiler.exe
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.21 13.28\Compiler\bin\Debug\Compiler.pdb
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.21 13.28\Compiler\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.21 13.28\Compiler\obj\Debug\Compiler.Form1.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.21 13.28\Compiler\obj\Debug\Compiler.Form2.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.21 13.28\Compiler\obj\Debug\Compiler.Compiler.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.21 13.28\Compiler\obj\Debug\Compiler.Properties.Resources.resources
+C:\Users\dellco\Desktop\学习\大三上\编译原理\实践\我们的项目\Compiler 12.21 13.28\Compiler\obj\Debug\Compiler.csproj.GenerateResource.Cache
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.21 22.52\Compiler\bin\Debug\Compiler.exe.config
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.21 22.52\Compiler\obj\Debug\Compiler.exe
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.21 22.52\Compiler\obj\Debug\Compiler.pdb
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.21 22.52\Compiler\bin\Debug\Compiler.exe
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.21 22.52\Compiler\bin\Debug\Compiler.pdb
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.21 22.52\Compiler\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.21 22.52\Compiler\obj\Debug\Compiler.Form1.resources
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.21 22.52\Compiler\obj\Debug\Compiler.Form2.resources
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.21 22.52\Compiler\obj\Debug\Compiler.Compiler.resources
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.21 22.52\Compiler\obj\Debug\Compiler.Properties.Resources.resources
+C:\Users\Void\Documents\Visual Studio 2013\Projects\Compiler 12.21 22.52\Compiler\obj\Debug\Compiler.csproj.GenerateResource.Cache
