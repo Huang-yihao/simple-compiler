@@ -1,4 +1,4 @@
-# simple-compiler  use C#
+# simple-compiler  use ‘C#’
 大三编译原理实践项目
 用C#编写||
 简单的词法语法语义分析||
